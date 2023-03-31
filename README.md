@@ -61,6 +61,8 @@ Wird vor dem Projekt durch den Kunden erstellt und Auftragnehmer weitergereicht.
 Auf Basis des Lastenheft wird vom Auftragnehmer das Pflichtenheft erstellt.  
 ![Ablauf](./images/L-P_Heft.png)
 
-
+## SEUSAG
+Systemabgrenzung mit SEUSAG.
+![SEUSAG](./images/seusag.png)
 
 
