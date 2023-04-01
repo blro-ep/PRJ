@@ -63,7 +63,9 @@ Auf Basis des Lastenheft wird vom Auftragnehmer das Pflichtenheft erstellt.
 
 ## SMART
 (Specific Measurable Achievable Reasonable Time-bound.)
-ist ein Kriterium zur eindeutigen Formulierung von mess- und überprüfbaren Zielen.
+ist ein Kriterium zur eindeutigen Formulierung von mess- und überprüfbaren Zielen.  
+Ein Ziel ist nur dann S.M.A.R.T., wenn es diese fünf Bedingungen erfüllt.  
+
 ### S
 - Spezifisch  
 Ziele müssen eindeutig definiert sein (nicht vage, sondern so präzise wie möglich). 
