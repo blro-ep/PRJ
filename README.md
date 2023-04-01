@@ -61,6 +61,29 @@ Wird vor dem Projekt durch den Kunden erstellt und Auftragnehmer weitergereicht.
 Auf Basis des Lastenheft wird vom Auftragnehmer das Pflichtenheft erstellt.  
 ![Ablauf](./images/L-P_Heft.png)
 
+## SMART
+(Specific Measurable Achievable Reasonable Time-bound.)
+ist ein Kriterium zur eindeutigen Formulierung von mess- und überprüfbaren Zielen.
+### S
+- Spezifisch  
+Ziele müssen eindeutig definiert sein (nicht vage, sondern so präzise wie möglich). 
+
+### M
+- Messbar  
+Ziele müssen messbar sein (Messbarkeitskriterien). 
+
+### A
+- Akzeptiert  
+Die Ziele müssen für die Person ansprechend bzw. erstrebenswert sein.
+
+### R
+- Realistisch  
+Das gesteckte Ziel muss möglich und realisierbar sein.
+
+### T
+- Terminiert  
+Das Ziel muss mit einem fixen Datum festgelegt werden können.
+
 ## SEUSAG
 Systemabgrenzung mit SEUSAG.
 ![SEUSAG](./images/seusag.png)
